@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ef95ad7cf34ebec79fd8e3f05d4c31ca",
+    "hash": "724830e06da3cebed06f9c011e0dfaf7",
     "content-hash": "53dc69a4b62c1019bcf7b4da39b772ab",
     "packages": [
         {
@@ -105,16 +105,16 @@
         },
         {
             "name": "bsapaka/eloquent-scalable-taxonomy",
-            "version": "0.1",
+            "version": "0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bsapaka/eloquent-scalable-taxonomy.git",
-                "reference": "84503bee097a6211d15bc3a07e08ed287dee5d42"
+                "reference": "500a3f35fbf2af52deb7fed0e047b936b216743e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bsapaka/eloquent-scalable-taxonomy/zipball/84503bee097a6211d15bc3a07e08ed287dee5d42",
-                "reference": "84503bee097a6211d15bc3a07e08ed287dee5d42",
+                "url": "https://api.github.com/repos/bsapaka/eloquent-scalable-taxonomy/zipball/500a3f35fbf2af52deb7fed0e047b936b216743e",
+                "reference": "500a3f35fbf2af52deb7fed0e047b936b216743e",
                 "shasum": ""
             },
             "require": {
@@ -129,7 +129,7 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2016-03-29 04:24:19"
+            "time": "2016-04-04 02:38:39"
         },
         {
             "name": "classpreloader/classpreloader",
